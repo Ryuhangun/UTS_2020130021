@@ -44,7 +44,7 @@ class Mskclass extends StatelessWidget {
                     margin: EdgeInsets.fromLTRB(
                         93 * fem, 0 * fem, 0 * fem, 80 * fem),
                     child: Text(
-                      'WELCOME TO RyuStore',
+                      'WELCOME TO NekkoShop',
                       style: googleFont(
                         'Inter',
                         fontSize: 22 * ffem,
